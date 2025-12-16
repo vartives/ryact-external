@@ -1,0 +1,5 @@
+C:\Users\Lotus\Documents\GitHub\Ryact-External\x64\Release\D3DCompiler_43.dll
+C:\Users\Lotus\Documents\GitHub\Ryact-External\x64\Release\d3dx9_43.dll
+C:\Users\Lotus\Documents\GitHub\Ryact-External\x64\Release\d3dx10_43.dll
+C:\Users\Lotus\Documents\GitHub\Ryact-External\x64\Release\d3dx11_43.dll
+C:\Users\Lotus\Documents\GitHub\Ryact-External\Ryact\x64\Release\nixda-fn.52C8CC38.Up2Date

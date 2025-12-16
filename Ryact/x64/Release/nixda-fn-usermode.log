@@ -1,0 +1,1847 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(66,9): warning C4005: "STATUS_WAIT_0": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2611,9):
+      siehe vorherige Definition von "STATUS_WAIT_0"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(227,9): warning C4005: "STATUS_ABANDONED_WAIT_0": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2612,9):
+      siehe vorherige Definition von "STATUS_ABANDONED_WAIT_0"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(250,9): warning C4005: "STATUS_USER_APC": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2613,9):
+      siehe vorherige Definition von "STATUS_USER_APC"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(286,9): warning C4005: "STATUS_TIMEOUT": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2614,9):
+      siehe vorherige Definition von "STATUS_TIMEOUT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(295,9): warning C4005: "STATUS_PENDING": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2615,9):
+      siehe vorherige Definition von "STATUS_PENDING"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(751,9): warning C4005: "DBG_EXCEPTION_HANDLED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2616,9):
+      siehe vorherige Definition von "DBG_EXCEPTION_HANDLED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(760,9): warning C4005: "DBG_CONTINUE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2617,9):
+      siehe vorherige Definition von "DBG_CONTINUE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(835,9): warning C4005: "STATUS_SEGMENT_NOTIFICATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2618,9):
+      siehe vorherige Definition von "STATUS_SEGMENT_NOTIFICATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(998,9): warning C4005: "STATUS_FATAL_APP_EXIT": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2619,9):
+      siehe vorherige Definition von "STATUS_FATAL_APP_EXIT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1345,9): warning C4005: "DBG_REPLY_LATER": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2620,9):
+      siehe vorherige Definition von "DBG_REPLY_LATER"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1363,9): warning C4005: "DBG_TERMINATE_THREAD": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2621,9):
+      siehe vorherige Definition von "DBG_TERMINATE_THREAD"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1372,9): warning C4005: "DBG_TERMINATE_PROCESS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2622,9):
+      siehe vorherige Definition von "DBG_TERMINATE_PROCESS"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1381,9): warning C4005: "DBG_CONTROL_C": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2623,9):
+      siehe vorherige Definition von "DBG_CONTROL_C"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1390,9): warning C4005: "DBG_PRINTEXCEPTION_C": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2624,9):
+      siehe vorherige Definition von "DBG_PRINTEXCEPTION_C"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1399,9): warning C4005: "DBG_RIPEXCEPTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2625,9):
+      siehe vorherige Definition von "DBG_RIPEXCEPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1408,9): warning C4005: "DBG_CONTROL_BREAK": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2626,9):
+      siehe vorherige Definition von "DBG_CONTROL_BREAK"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1417,9): warning C4005: "DBG_COMMAND_EXCEPTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2627,9):
+      siehe vorherige Definition von "DBG_COMMAND_EXCEPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1426,9): warning C4005: "DBG_PRINTEXCEPTION_WIDE_C": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2628,9):
+      siehe vorherige Definition von "DBG_PRINTEXCEPTION_WIDE_C"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1458,9): warning C4005: "STATUS_GUARD_PAGE_VIOLATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2629,9):
+      siehe vorherige Definition von "STATUS_GUARD_PAGE_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1469,9): warning C4005: "STATUS_DATATYPE_MISALIGNMENT": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2630,9):
+      siehe vorherige Definition von "STATUS_DATATYPE_MISALIGNMENT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1480,9): warning C4005: "STATUS_BREAKPOINT": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2631,9):
+      siehe vorherige Definition von "STATUS_BREAKPOINT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1491,9): warning C4005: "STATUS_SINGLE_STEP": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2632,9):
+      siehe vorherige Definition von "STATUS_SINGLE_STEP"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1794,9): warning C4005: "STATUS_LONGJUMP": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2633,9):
+      siehe vorherige Definition von "STATUS_LONGJUMP"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1821,9): warning C4005: "STATUS_UNWIND_CONSOLIDATE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2634,9):
+      siehe vorherige Definition von "STATUS_UNWIND_CONSOLIDATE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(1945,9): warning C4005: "DBG_EXCEPTION_NOT_HANDLED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2635,9):
+      siehe vorherige Definition von "DBG_EXCEPTION_NOT_HANDLED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2112,9): warning C4005: "STATUS_ACCESS_VIOLATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2636,9):
+      siehe vorherige Definition von "STATUS_ACCESS_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2121,9): warning C4005: "STATUS_IN_PAGE_ERROR": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2637,9):
+      siehe vorherige Definition von "STATUS_IN_PAGE_ERROR"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2139,9): warning C4005: "STATUS_INVALID_HANDLE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2638,9):
+      siehe vorherige Definition von "STATUS_INVALID_HANDLE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2184,9): warning C4005: "STATUS_INVALID_PARAMETER": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2639,9):
+      siehe vorherige Definition von "STATUS_INVALID_PARAMETER"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2284,9): warning C4005: "STATUS_NO_MEMORY": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2640,9):
+      siehe vorherige Definition von "STATUS_NO_MEMORY"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2341,9): warning C4005: "STATUS_ILLEGAL_INSTRUCTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2641,9):
+      siehe vorherige Definition von "STATUS_ILLEGAL_INSTRUCTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2422,9): warning C4005: "STATUS_NONCONTINUABLE_EXCEPTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2642,9):
+      siehe vorherige Definition von "STATUS_NONCONTINUABLE_EXCEPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(2431,9): warning C4005: "STATUS_INVALID_DISPOSITION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2643,9):
+      siehe vorherige Definition von "STATUS_INVALID_DISPOSITION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3364,9): warning C4005: "STATUS_ARRAY_BOUNDS_EXCEEDED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2644,9):
+      siehe vorherige Definition von "STATUS_ARRAY_BOUNDS_EXCEEDED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3374,9): warning C4005: "STATUS_FLOAT_DENORMAL_OPERAND": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2645,9):
+      siehe vorherige Definition von "STATUS_FLOAT_DENORMAL_OPERAND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3384,9): warning C4005: "STATUS_FLOAT_DIVIDE_BY_ZERO": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2646,9):
+      siehe vorherige Definition von "STATUS_FLOAT_DIVIDE_BY_ZERO"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3394,9): warning C4005: "STATUS_FLOAT_INEXACT_RESULT": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2647,9):
+      siehe vorherige Definition von "STATUS_FLOAT_INEXACT_RESULT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3404,9): warning C4005: "STATUS_FLOAT_INVALID_OPERATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2648,9):
+      siehe vorherige Definition von "STATUS_FLOAT_INVALID_OPERATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3414,9): warning C4005: "STATUS_FLOAT_OVERFLOW": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2649,9):
+      siehe vorherige Definition von "STATUS_FLOAT_OVERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3424,9): warning C4005: "STATUS_FLOAT_STACK_CHECK": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2650,9):
+      siehe vorherige Definition von "STATUS_FLOAT_STACK_CHECK"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3434,9): warning C4005: "STATUS_FLOAT_UNDERFLOW": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2651,9):
+      siehe vorherige Definition von "STATUS_FLOAT_UNDERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3444,9): warning C4005: "STATUS_INTEGER_DIVIDE_BY_ZERO": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2652,9):
+      siehe vorherige Definition von "STATUS_INTEGER_DIVIDE_BY_ZERO"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3454,9): warning C4005: "STATUS_INTEGER_OVERFLOW": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2653,9):
+      siehe vorherige Definition von "STATUS_INTEGER_OVERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(3464,9): warning C4005: "STATUS_PRIVILEGED_INSTRUCTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2654,9):
+      siehe vorherige Definition von "STATUS_PRIVILEGED_INSTRUCTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4410,9): warning C4005: "STATUS_STACK_OVERFLOW": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2655,9):
+      siehe vorherige Definition von "STATUS_STACK_OVERFLOW"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4927,9): warning C4005: "STATUS_DLL_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2656,9):
+      siehe vorherige Definition von "STATUS_DLL_NOT_FOUND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4956,9): warning C4005: "STATUS_ORDINAL_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2657,9):
+      siehe vorherige Definition von "STATUS_ORDINAL_NOT_FOUND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4966,9): warning C4005: "STATUS_ENTRYPOINT_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2658,9):
+      siehe vorherige Definition von "STATUS_ENTRYPOINT_NOT_FOUND"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(4976,9): warning C4005: "STATUS_CONTROL_C_EXIT": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2659,9):
+      siehe vorherige Definition von "STATUS_CONTROL_C_EXIT"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(5054,9): warning C4005: "STATUS_DLL_INIT_FAILED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2660,9):
+      siehe vorherige Definition von "STATUS_DLL_INIT_FAILED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(6051,9): warning C4005: "STATUS_CONTROL_STACK_VIOLATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2661,9):
+      siehe vorherige Definition von "STATUS_CONTROL_STACK_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7645,9): warning C4005: "STATUS_FLOAT_MULTIPLE_FAULTS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2662,9):
+      siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_FAULTS"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7655,9): warning C4005: "STATUS_FLOAT_MULTIPLE_TRAPS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2663,9):
+      siehe vorherige Definition von "STATUS_FLOAT_MULTIPLE_TRAPS"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(7787,9): warning C4005: "STATUS_REG_NAT_CONSUMPTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2664,9):
+      siehe vorherige Definition von "STATUS_REG_NAT_CONSUMPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8770,9): warning C4005: "STATUS_HEAP_CORRUPTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2665,9):
+      siehe vorherige Definition von "STATUS_HEAP_CORRUPTION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(8998,9): warning C4005: "STATUS_STACK_BUFFER_OVERRUN": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2666,9):
+      siehe vorherige Definition von "STATUS_STACK_BUFFER_OVERRUN"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9125,9): warning C4005: "STATUS_INVALID_CRUNTIME_PARAMETER": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2667,9):
+      siehe vorherige Definition von "STATUS_INVALID_CRUNTIME_PARAMETER"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(9188,9): warning C4005: "STATUS_ASSERTION_FAILURE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2668,9):
+      siehe vorherige Definition von "STATUS_ASSERTION_FAILURE"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10097,9): warning C4005: "STATUS_ENCLAVE_VIOLATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2669,9):
+      siehe vorherige Definition von "STATUS_ENCLAVE_VIOLATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10884,9): warning C4005: "STATUS_INTERRUPTED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2670,9):
+      siehe vorherige Definition von "STATUS_INTERRUPTED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(10893,9): warning C4005: "STATUS_THREAD_NOT_RUNNING": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2671,9):
+      siehe vorherige Definition von "STATUS_THREAD_NOT_RUNNING"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(11205,9): warning C4005: "STATUS_ALREADY_REGISTERED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2672,9):
+      siehe vorherige Definition von "STATUS_ALREADY_REGISTERED"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15323,9): warning C4005: "STATUS_SXS_EARLY_DEACTIVATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2674,9):
+      siehe vorherige Definition von "STATUS_SXS_EARLY_DEACTIVATION"
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\ntstatus.h(15332,9): warning C4005: "STATUS_SXS_INVALID_DEACTIVATION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winnt.h(2675,9):
+      siehe vorherige Definition von "STATUS_SXS_INVALID_DEACTIVATION"
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(40,66): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(40,51): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(40,36): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(55,35): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(55,50): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(55,65): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(65,34): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(65,49): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\driver\drvva.h(65,64): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(61,32): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(61,53): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(61,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(130,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(131,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(132,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(133,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(134,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(135,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(136,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(137,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(138,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(139,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(140,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(141,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(153,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(154,15): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(155,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(175,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(176,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(177,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(223,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(224,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(225,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(226,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(227,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(228,19): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(231,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(232,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(233,19): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(236,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(237,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(238,23): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(241,19): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(242,27): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(243,22): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(246,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(247,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(248,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(264,20): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\sdk.h(264,42): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\utility\settings.h(150,17): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(4,9): warning C4005: "IMGUI_DEFINE_MATH_OPERATORS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(4,9):
+      „IMGUI_DEFINE_MATH_OPERATORS“ wurde zuvor in der Befehlszeile deklariert
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(64,33): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "float", möglicher Datenverlust
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(64,33): warning C4244:         with
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(64,33): warning C4244:         [
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(64,33): warning C4244:             _Rep=__int64
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(64,33): warning C4244:         ]
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(65,32): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "float", möglicher Datenverlust
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(65,32): warning C4244:         with
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(65,32): warning C4244:         [
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(65,32): warning C4244:             _Rep=__int64
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(65,32): warning C4244:         ]
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(68,33): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "float", möglicher Datenverlust
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(68,33): warning C4244:         with
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(68,33): warning C4244:         [
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(68,33): warning C4244:             _Rep=__int64
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(68,33): warning C4244:         ]
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(69,32): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "float", möglicher Datenverlust
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(69,32): warning C4244:         with
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(69,32): warning C4244:         [
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(69,32): warning C4244:             _Rep=__int64
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(69,32): warning C4244:         ]
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(80,32): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "float", möglicher Datenverlust
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(80,32): warning C4244:         with
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(80,32): warning C4244:         [
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(80,32): warning C4244:             _Rep=__int64
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(80,32): warning C4244:         ]
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(81,31): warning C4244: "Initialisierung": Konvertierung von "_Rep" in "float", möglicher Datenverlust
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(81,31): warning C4244:         with
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(81,31): warning C4244:         [
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(81,31): warning C4244:             _Rep=__int64
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(81,31): warning C4244:         ]
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\examples\example_win32_directx11\custom_widgets.h(101,50): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\camera.h(93,19): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\camera.h(94,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\camera.h(108,61): warning C4267: "Argument": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\camera.h(130,13): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "int", Datenverlust möglich
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(75,17): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(88,14): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(89,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(90,12): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(94,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(94,44): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(99,19): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(116,72): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(200,12): warning C4244: "=": Konvertierung von "__int64" in "char", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(207,13): warning C4244: "=": Konvertierung von "__int64" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(267,17): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(317,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(318,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(319,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(344,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(345,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(346,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(448,20): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(477,19): warning C4244: "Initialisierung": Konvertierung von "const wchar_t" in "char", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(482,40): warning C4244: "=": Konvertierung von "const wchar_t" in "char", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(491,18): warning C4244: "Initialisierung": Konvertierung von "const wchar_t" in "char", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(514,14): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(521,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(531,14): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(538,25): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(9,15): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(10,15): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(11,15): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(12,15): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(51,14): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(52,14): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(53,14): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\drawing.h(54,14): warning C4244: "Initialisierung": Konvertierung von "uint32_t" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(44,67): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(44,41): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(88,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(88,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(88,44): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(88,32): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(88,28): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(89,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(89,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(89,43): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(89,31): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(89,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(96,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(124,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(124,61): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(124,54): warning C4244: "Argument": Konvertierung von "const double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(127,26): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(172,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(173,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(183,11): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(184,11): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(186,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(187,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(189,11): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(190,11): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(204,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(204,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(204,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(204,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(208,81): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(208,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(208,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(208,53): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(208,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(218,87): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(218,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(218,44): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(218,32): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(218,28): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(219,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(219,47): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(219,43): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(219,31): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(219,27): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(278,71): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(278,56): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(278,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(278,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(279,75): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(279,58): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(279,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(279,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(280,79): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(280,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(280,43): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(280,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(281,75): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(281,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(281,47): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(281,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(282,79): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(282,64): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(282,49): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(282,31): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(283,69): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(283,55): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(283,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(283,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(284,73): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(284,58): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(284,43): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(284,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(285,53): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(285,42): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(285,31): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(285,22): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(286,59): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(286,47): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(286,35): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(286,24): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(287,61): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(287,48): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(287,35): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(287,24): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(288,63): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(288,50): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(288,37): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(288,25): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(289,67): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(289,53): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(289,39): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(289,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(290,67): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(290,53): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(290,39): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(290,26): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(291,71): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(291,56): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(291,41): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(291,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(397,13): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(518,91): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(518,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(518,54): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(521,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(521,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(521,40): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(531,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(531,37): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(555,141): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(555,115): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(555,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(555,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(556,141): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(556,115): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(556,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(556,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(557,141): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(557,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(557,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(557,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(558,141): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(558,111): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(558,78): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(558,48): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(795,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(796,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(797,24): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(798,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(809,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(879,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(880,11): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(882,24): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(883,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(961,85): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(961,78): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(961,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(961,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1006,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1007,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1008,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1009,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1010,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1011,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1012,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1013,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1014,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1015,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1016,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1017,72): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1037,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1046,96): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1046,85): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1047,114): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1047,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1047,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1054,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1059,96): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1059,85): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1060,114): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1060,70): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1060,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1095,132): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1095,121): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1095,110): warning C4305: "Argument": Verkürzung von "double" in "float"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1095,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1095,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1095,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1095,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1096,103): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1096,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1096,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1096,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1096,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1155,31): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1157,32): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1159,30): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1161,33): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1200,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1200,63): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1200,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1200,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1201,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1201,65): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1201,52): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1201,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1202,84): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1202,79): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1202,66): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1202,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1203,76): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1203,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1203,56): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1203,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1204,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1204,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1204,58): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1204,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1205,82): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1205,69): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1205,54): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1205,49): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1206,90): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1206,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1206,68): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1206,55): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1207,90): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1207,83): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1207,62): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1207,51): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1242,53): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1242,39): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1242,20): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1243,60): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1243,39): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1243,20): warning C4244: "Argument": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1374,78): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1386,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1387,9): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1392,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1392,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1393,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1393,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1394,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1394,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1395,87): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1395,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1397,80): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1397,77): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1413,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1417,23): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1426,21): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1616,20): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1618,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1620,22): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1652,31): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1683,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1683,37): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1684,55): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1684,34): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1685,57): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1685,40): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1686,54): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1686,37): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1714,127): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1714,92): warning C4244: "Argument": Konvertierung von "const int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1716,17): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1718,89): warning C4244: "Argument": Konvertierung von "const int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1727,39): warning C4244: "Initialisierung": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1727,30): warning C4244: "Initialisierung": Konvertierung von "int" in "const float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1738,34): warning C4244: "Argument": Konvertierung von "const int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1738,31): warning C4244: "Argument": Konvertierung von "const int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1767,81): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1767,35): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1912,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1912,36): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1941,72): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1941,35): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1946,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(1947,18): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2037,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2038,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2039,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2040,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2041,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2042,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2043,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2044,73): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2045,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2046,74): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2047,75): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2048,75): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2072,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2117,85): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2212,70): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2212,44): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2217,123): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2217,103): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2217,71): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2245,104): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2250,7): warning C4834: Rückgabewert der Funktion mit [[nodiscard]]-Attribut wird verworfen
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(2254,7): warning C4834: Rückgabewert der Funktion mit [[nodiscard]]-Attribut wird verworfen
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(12,9): warning C4005: "DXGI_STATUS_OCCLUDED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59246,9):
+      siehe vorherige Definition von "DXGI_STATUS_OCCLUDED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(13,9): warning C4005: "DXGI_STATUS_CLIPPED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59255,9):
+      siehe vorherige Definition von "DXGI_STATUS_CLIPPED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(14,9): warning C4005: "DXGI_STATUS_NO_REDIRECTION": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59264,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_REDIRECTION"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(15,9): warning C4005: "DXGI_STATUS_NO_DESKTOP_ACCESS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59273,9):
+      siehe vorherige Definition von "DXGI_STATUS_NO_DESKTOP_ACCESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(16,9): warning C4005: "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59282,9):
+      siehe vorherige Definition von "DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(17,9): warning C4005: "DXGI_STATUS_MODE_CHANGED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59291,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(18,9): warning C4005: "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59300,9):
+      siehe vorherige Definition von "DXGI_STATUS_MODE_CHANGE_IN_PROGRESS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(21,9): warning C4005: "DXGI_ERROR_INVALID_CALL": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59315,9):
+      siehe vorherige Definition von "DXGI_ERROR_INVALID_CALL"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(22,9): warning C4005: "DXGI_ERROR_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59324,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(23,9): warning C4005: "DXGI_ERROR_MORE_DATA": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59333,9):
+      siehe vorherige Definition von "DXGI_ERROR_MORE_DATA"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(24,9): warning C4005: "DXGI_ERROR_UNSUPPORTED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59342,9):
+      siehe vorherige Definition von "DXGI_ERROR_UNSUPPORTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(25,9): warning C4005: "DXGI_ERROR_DEVICE_REMOVED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59351,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_REMOVED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(26,9): warning C4005: "DXGI_ERROR_DEVICE_HUNG": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59360,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_HUNG"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(27,9): warning C4005: "DXGI_ERROR_DEVICE_RESET": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59370,9):
+      siehe vorherige Definition von "DXGI_ERROR_DEVICE_RESET"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(28,9): warning C4005: "DXGI_ERROR_WAS_STILL_DRAWING": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59379,9):
+      siehe vorherige Definition von "DXGI_ERROR_WAS_STILL_DRAWING"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(29,9): warning C4005: "DXGI_ERROR_FRAME_STATISTICS_DISJOINT": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59389,9):
+      siehe vorherige Definition von "DXGI_ERROR_FRAME_STATISTICS_DISJOINT"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(30,9): warning C4005: "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59398,9):
+      siehe vorherige Definition von "DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(31,9): warning C4005: "DXGI_ERROR_DRIVER_INTERNAL_ERROR": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59408,9):
+      siehe vorherige Definition von "DXGI_ERROR_DRIVER_INTERNAL_ERROR"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(32,9): warning C4005: "DXGI_ERROR_NONEXCLUSIVE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59417,9):
+      siehe vorherige Definition von "DXGI_ERROR_NONEXCLUSIVE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(33,9): warning C4005: "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59426,9):
+      siehe vorherige Definition von "DXGI_ERROR_NOT_CURRENTLY_AVAILABLE"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(34,9): warning C4005: "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59436,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\dxgitype.h(35,9): warning C4005: "DXGI_ERROR_REMOTE_OUTOFMEMORY": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59445,9):
+      siehe vorherige Definition von "DXGI_ERROR_REMOTE_OUTOFMEMORY"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(917,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59760,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(918,9): warning C4005: "D3D11_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59769,9):
+      siehe vorherige Definition von "D3D11_ERROR_FILE_NOT_FOUND"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(919,9): warning C4005: "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59779,9):
+      siehe vorherige Definition von "D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d11.h(920,9): warning C4005: "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59788,9):
+      siehe vorherige Definition von "D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(608,9): warning C4005: "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59736,9):
+      siehe vorherige Definition von "D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS"
+  
+C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include\d3d10.h(609,9): warning C4005: "D3D10_ERROR_FILE_NOT_FOUND": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared\winerror.h(59745,9):
+      siehe vorherige Definition von "D3D10_ERROR_FILE_NOT_FOUND"
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(12,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(12,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(13,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(13,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(14,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(14,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(15,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(15,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(16,72): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(16,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(19,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(19,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(20,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(20,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(21,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(21,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(22,79): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(22,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(23,71): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(23,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(26,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(26,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(27,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(27,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(28,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(28,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(29,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(29,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(30,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(30,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(34,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(34,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(35,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(35,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(36,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(36,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(37,82): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(37,63): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(38,74): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(38,59): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(46,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(46,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(47,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(47,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(48,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(48,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(49,80): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(49,62): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(50,72): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\menu\drawing.h(50,58): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(321,57): warning C4244: "=": Konvertierung von "DWORD" in "WORD", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(478,32): warning C4244: "Initialisierung": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(479,32): warning C4244: "Initialisierung": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(491,32): warning C4244: "Initialisierung": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(492,32): warning C4244: "Initialisierung": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(966,40): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "char", Datenverlust möglich
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(1027,36): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(1028,36): warning C4244: "=": Konvertierung von "double" in "int", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(1704,37): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\overlay\render.h(1705,37): warning C4244: "=": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\imgui\crypt.h(4508,9): warning C4005: "_": Makro-Neudefinition
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\cache\actorloop.h(777,9):
+      siehe vorherige Definition von "_"
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\Spoofing\spoof.h(402,29): warning C4305: "Initialisierung": Verkürzung von "__int64" in "BYTE"
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Users\Lotus\Documents\GitHub\Ryact-External\Spoofing\spoof.h(402,29): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+  
+C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18): warning C4244: "=": Konvertierung von "wchar_t" in "char", möglicher Datenverlust
+  (Quelldatei „stuff/main.cpp“ wird kompiliert)
+      C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.44.35207\include\xutility(4813,18):
+      der Vorlageninstanziierungskontext (der älteste zuerst) ist
+          C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(176,21):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)" der Funktions-Vorlage.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\Lotus\Documents\GitHub\Ryact-External\utilities\sdk\functions.h(176,3):
+              Ersten Verweis auf "std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string" in "decryption_t::ReadWideString" anzeigen
+          C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.44.35207\include\xstring(812,17):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)" der Funktions-Vorlage.
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\18\Insiders\VC\Tools\MSVC\14.44.35207\include\xstring(968,18):
+          Siehe Verweis auf die gerade kompilierte Instanziierung "_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)" der Funktions-Vorlage.
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  LINK : /LTCG wurde angegeben, es ist jedoch keine Codegenerierung erforderlich. Entfernen Sie /LTCG aus der Linkbefehlszeile, um die Linkerleistung zu erhöhen.
+  nixda-fn-usermode.vcxproj -> C:\Users\Lotus\Documents\GitHub\Ryact-External\x64\Release\fortnite-loader.exe

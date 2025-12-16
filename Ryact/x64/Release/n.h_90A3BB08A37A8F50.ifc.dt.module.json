@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Ryact\\x64\\Release\\n.obj",
+            "outputs": [
+                "Ryact\\x64\\Release\\n.h_90A3BB08A37A8F50.ifc.dt.module.json",
+                "Ryact\\x64\\Release\\n.h_90A3BB08A37A8F50.ifc.dt.d.json",
+                "Ryact\\x64\\Release\\n.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\Lotus\\Documents\\GitHub\\Ryact-External\\utilities\\Modules\\n.h",
+                    "source-path": "c:\\users\\lotus\\documents\\github\\ryact-external\\utilities\\modules\\n.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
