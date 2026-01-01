@@ -1,5 +1,3 @@
-#pragma once
-
 #include <corecrt_math_defines.h>
 #include <random>
 #include <d3d9types.h>

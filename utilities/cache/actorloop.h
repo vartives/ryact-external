@@ -1,5 +1,3 @@
-#pragma once
-
 #include <list>
 #include <string>
 #include "../utility/offsets.h"
@@ -1984,6 +1982,9 @@ void actorloop()
 
 		if (visuals.skeleton && visuals.enable)
 		{
+			
+
+
 			int selected = config.selected_config;
 
 			// If user is not a booster, override to 0

@@ -1,5 +1,3 @@
-#pragma once
-
 ﻿#include <iostream>
 #include <string>
 #include "../../imgui/examples/example_win32_directx11/imgui_settings.h"

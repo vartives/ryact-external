@@ -1,5 +1,3 @@
-#pragma once
-
 #include <WinUser.h>
 #include "../../imgui/imgui.h"
 #include <string>
