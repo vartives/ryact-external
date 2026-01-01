@@ -1,3 +1,5 @@
+#pragma once
+
 // [DEAR IMGUI]
 // This is a slightly modified version of stb_truetype.h 1.26.
 // Mostly fixing for compiler and static analyzer warnings.

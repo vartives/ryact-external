@@ -1,3 +1,5 @@
+#pragma once
+
 #include "../utilities/sdk/sdk.h"
 #include "../imgui/imgui.h"
 #include <d3d9.h>

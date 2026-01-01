@@ -1,3 +1,5 @@
+#pragma once
+
 #include "../aimbot/keybind.h"
 
 struct camera_position_s {

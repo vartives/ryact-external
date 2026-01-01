@@ -1,3 +1,5 @@
+#pragma once
+
 /* D3DRM XFile templates in binary form */
 
 #ifndef _RMXFTMPL_H_
